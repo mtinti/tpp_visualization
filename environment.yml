@@ -102,4 +102,4 @@ dependencies:
     - pyyaml==3.12
     - rsa==3.4.2
     - s3transfer==0.1.11
-prefix: /Users/mtinti/miniconda3/envs/visualize_ttp
+
